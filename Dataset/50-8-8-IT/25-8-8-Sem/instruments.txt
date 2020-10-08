@@ -1,0 +1,17 @@
+chitarra
+fisarmonica
+tuba
+tromba
+sassofono
+oboe
+arpa
+banjo
+
+microfono
+orchestra
+festival
+concerto
+orecchio
+birra
+industria
+alluminio

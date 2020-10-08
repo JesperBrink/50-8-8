@@ -1,0 +1,17 @@
+vase
+armchair
+chair
+sofa
+desk
+lamp
+bathtub
+cabinet
+
+bathroom
+kitchen
+house
+garden
+roof
+wall
+finger
+Austria

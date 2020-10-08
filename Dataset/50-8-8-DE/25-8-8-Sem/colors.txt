@@ -1,0 +1,17 @@
+schwarz
+weiß
+grün
+gelb
+braun
+lila
+rot
+blau
+
+Farbton
+Sättigung
+Maler
+Gemälde
+Bleistift
+Pixel
+gratis
+radioaktiv

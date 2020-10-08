@@ -1,0 +1,17 @@
+caffè
+tè
+acqua
+vino
+birra
+latte
+whisky
+vodka
+
+alcol
+sete
+cameriere
+snack
+frutta
+cascata
+oceano
+trono

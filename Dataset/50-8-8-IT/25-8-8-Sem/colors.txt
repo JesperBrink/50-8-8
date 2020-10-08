@@ -1,0 +1,17 @@
+nero
+bianco
+verde
+giallo
+marrone
+viola
+rosso
+blu
+
+colore
+saturazione
+pittore
+tela
+matita
+pixel
+omaggio
+radioattivo

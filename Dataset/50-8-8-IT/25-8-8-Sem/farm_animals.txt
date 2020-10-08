@@ -1,0 +1,17 @@
+mucca
+pecora
+capra
+cavallo
+maiale
+oca
+asino
+anatra
+
+tigre
+gorilla
+riccio
+sorella
+minerale
+pollame
+fantasma
+cesto

@@ -1,0 +1,17 @@
+gold
+iron
+aluminum
+magnesium
+copper
+silver
+zinc
+titanium
+
+helium
+wood
+plastic
+porcelain
+sand
+gasoline
+colony
+tyre

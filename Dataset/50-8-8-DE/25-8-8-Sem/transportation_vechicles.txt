@@ -1,0 +1,17 @@
+Flugzeug
+Wagen
+Lastwagen
+Fahrrad
+Roller
+Bus
+Motorrad
+Transporter
+
+Haus
+Sitz
+Reise
+Straße
+Ufer
+Baum
+Wolkenkratzer
+Kühlschrank

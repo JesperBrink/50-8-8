@@ -1,0 +1,17 @@
+mamma
+figlia
+padre
+figlio
+nonna
+fratello
+zia
+zio
+
+famiglia
+adozione
+relazione
+gravidanza
+vacanza
+inverno
+nazione
+telefono

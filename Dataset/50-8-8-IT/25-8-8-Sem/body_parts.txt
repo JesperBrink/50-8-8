@@ -1,0 +1,17 @@
+braccio
+dito
+gamba
+piede
+orecchio
+occhio
+addome
+mento
+
+sangue
+ormone
+persona
+medico
+gioielli
+ferita
+pantaloni
+grattacieli

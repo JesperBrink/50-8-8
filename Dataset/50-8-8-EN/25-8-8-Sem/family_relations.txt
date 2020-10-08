@@ -1,0 +1,17 @@
+mother
+daughter
+father
+son
+grandmother
+brother
+aunt
+uncle
+
+family
+adoption
+relation
+pregnancy
+holiday
+winter
+country
+phone

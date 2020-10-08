@@ -1,0 +1,17 @@
+meningite
+malaria
+tubercolosi
+vaiolo
+morbillo
+diabete
+influenza
+lupus
+
+cefalea
+fegato
+ospedale
+letto
+magro
+epidemia
+persona
+robot

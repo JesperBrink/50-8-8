@@ -1,0 +1,17 @@
+coccodrilli
+elefante
+gorilla
+gazzella
+leone
+bufalo
+leopardo
+struzzo
+
+orso
+lince
+giungla
+savana
+safari
+animale
+sandwich
+costa

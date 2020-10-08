@@ -1,0 +1,17 @@
+Gold
+Eisen
+Aluminium
+Magnesium
+Kupfer
+Silber
+Zink
+Titan
+
+Helium
+Holz
+Plastik
+Porzellan
+Sand
+Benzin
+Kolonie
+Reifen

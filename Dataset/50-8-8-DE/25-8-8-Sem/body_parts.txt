@@ -1,0 +1,17 @@
+Arm
+Finger
+Bein
+Fuß
+Ohr
+Auge
+Bauch
+Kinn
+
+Blut
+Hormon
+Person
+Arzt
+Schmuck
+Verletzung
+Hose
+Wolkenkratzer

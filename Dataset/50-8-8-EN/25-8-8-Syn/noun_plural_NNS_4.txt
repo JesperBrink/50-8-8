@@ -1,0 +1,17 @@
+theories
+decisions
+operations
+songs
+teeth
+persons
+areas
+databases
+
+easier
+friendlier
+eat
+recover
+customer
+exam
+actively
+stronger

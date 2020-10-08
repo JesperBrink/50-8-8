@@ -1,0 +1,17 @@
+Vase
+Sessel
+Stuhl
+Sofa
+Schreibtisch
+Lampe
+Badewanne
+Schrank
+
+Badezimmer
+Küche
+Haus
+Garten
+Dach
+Wand
+Finger
+Österreich

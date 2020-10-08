@@ -1,0 +1,17 @@
+Krokodil
+Elefant
+Gorilla
+Gazelle
+Löwe
+Büffel
+Leopard
+Strauß
+
+Bär
+Luchs
+Dschungel
+Savanne
+Safari
+Tier
+Sandwich
+Küste

@@ -1,0 +1,17 @@
+vaso
+poltrona
+sedia
+divano
+scrivania
+lampada
+vasca
+armadio
+
+bagno
+cucina
+casa
+giardino
+tetto
+parete
+dito
+Austria

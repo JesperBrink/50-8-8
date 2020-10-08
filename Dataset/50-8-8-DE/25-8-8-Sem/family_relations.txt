@@ -1,0 +1,17 @@
+Mutter
+Tochter
+Vater
+Sohn
+Großmutter
+Bruder
+Tante
+Onkel
+
+Familie
+Adoption
+Beziehung
+Schwangerschaft
+Urlaub
+Winter
+Land
+Telefon

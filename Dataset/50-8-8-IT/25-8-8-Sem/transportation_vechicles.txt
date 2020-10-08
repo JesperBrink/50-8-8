@@ -1,0 +1,17 @@
+aereo
+auto
+autocarro
+bici
+scooter
+autobus
+motocicletta
+furgone
+
+casa
+sedile
+viaggio
+strada
+riva
+albero
+grattacielo
+frigorifero

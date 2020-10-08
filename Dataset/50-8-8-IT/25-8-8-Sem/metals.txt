@@ -1,0 +1,17 @@
+oro
+ferro
+alluminio
+magnesio
+rame
+argento
+zinco
+titanio
+
+elio
+legno
+plastica
+porcellana
+sabbia
+benzina
+colonia
+pneumatico
